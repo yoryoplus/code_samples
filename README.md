@@ -7,7 +7,7 @@ At code_sample_1 folder you can view the functionallity at http://sohs.pbs.uam.e
 
 At code_sample_2 folder you can view the functionallity at http://sohs.pbs.uam.es/ejemplo_raiz/code_sample_2/reg.php
 
-Code_sample_2 folder : Personnel selection  questionnaire with .js validation and bootstrap layout.
+Code_sample_3 folder : Personnel selection  questionnaire with .js validation and bootstrap layout.
 
 
 
