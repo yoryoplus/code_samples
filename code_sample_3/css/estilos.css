@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	width: 950px;
+	margin: 0 auto;
+	margin-top:20px;
+	padding:30px;
+	border:solid 1px #CCC;	
+	}
+#instrucciones{
+	padding:18px;
+	background-color:#C0CCD3;
+	}
+form{
+	background-color: #EFE9E7;
+	width:300px;
+	padding:20px;	
+}
+.no_border{
+	border:none;
+	}
+.border_right{
+	border:none;
+	border-right:1px solid #999;
+	}
+.subr{
+	background-color:#CCC;
+	border:inherit;
+	}
+.subr_col{
+	background-color:#A9C1CD;			
+		}
